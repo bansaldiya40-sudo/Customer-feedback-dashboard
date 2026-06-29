@@ -1,0 +1,41 @@
+id,date,customer_name,product,rating,feedback,category
+1,2024-01-05,Alice Johnson,Mobile App,5,"The app is absolutely amazing! Super fast and intuitive. Loved every feature.",App
+2,2024-01-07,Bob Smith,Customer Support,2,"Support was slow and unhelpful. Very frustrated with the experience.",Support
+3,2024-01-09,Carol White,Website,4,"Great website overall. Navigation could be slightly improved but works well.",Website
+4,2024-01-12,David Brown,Mobile App,1,"The app keeps crashing. Terrible experience. I want my money back.",App
+5,2024-01-15,Emma Davis,Product Quality,5,"Absolutely love the product quality. Best purchase I have ever made!",Product
+6,2024-01-18,Frank Wilson,Delivery,3,"Delivery was okay, nothing special. Package arrived on time but no communication.",Delivery
+7,2024-01-20,Grace Lee,Customer Support,5,"Outstanding support team! They resolved my issue in minutes. Very satisfied.",Support
+8,2024-01-22,Henry Taylor,Website,2,"The website is confusing and slow. Hard to find what I am looking for.",Website
+9,2024-01-25,Iris Martinez,Mobile App,4,"App works great! Minor bugs but overall a wonderful experience.",App
+10,2024-01-28,Jack Anderson,Product Quality,1,"Received a damaged product. Very disappointed with quality control.",Product
+11,2024-02-02,Karen Thomas,Delivery,5,"Delivery was super fast! Package was well protected. Excellent service!",Delivery
+12,2024-02-05,Liam Jackson,Customer Support,3,"Support was average. Got help eventually but took too long.",Support
+13,2024-02-08,Mia White,Mobile App,5,"Fantastic app. Smooth performance and beautiful design. Highly recommend!",App
+14,2024-02-10,Noah Harris,Website,4,"Clean and modern website. Easy checkout process. Very pleasant experience.",Website
+15,2024-02-13,Olivia Martin,Product Quality,5,"Product exceeded expectations. Premium quality and great packaging.",Product
+16,2024-02-15,Paul Garcia,Delivery,2,"Package was late and poorly packed. Not happy with the delivery service.",Delivery
+17,2024-02-18,Quinn Robinson,Customer Support,4,"Good support overall. Agent was knowledgeable and polite.",Support
+18,2024-02-20,Rachel Clark,Mobile App,2,"App is slow and buggy. Crashes often. Needs serious improvement.",App
+19,2024-02-23,Sam Lewis,Website,5,"Perfect website experience. Found everything quickly. Will definitely return!",Website
+20,2024-02-26,Tina Walker,Product Quality,3,"Product is decent. Not bad but nothing impressive either.",Product
+21,2024-03-01,Uma Scott,Delivery,4,"Delivery was prompt and the packaging was neat. Satisfied customer.",Delivery
+22,2024-03-04,Victor Hall,Customer Support,1,"Worst support experience ever. Rude staff and no resolution. Disgusting.",Support
+23,2024-03-07,Wendy Allen,Mobile App,5,"Love this app! Works perfectly and the new features are brilliant.",App
+24,2024-03-10,Xander Young,Website,3,"Website is functional but outdated looking. Could use a redesign.",Website
+25,2024-03-13,Yara Hernandez,Product Quality,4,"Good product with solid build quality. Happy with the purchase.",Product
+26,2024-03-16,Zoe King,Delivery,5,"Incredible delivery speed! Received the package the very next day.",Delivery
+27,2024-03-19,Aaron Wright,Customer Support,2,"Had to repeat my issue multiple times. Very frustrating and time consuming.",Support
+28,2024-03-22,Beth Lopez,Mobile App,4,"Nice app with good functionality. Occasional lag but manageable.",App
+29,2024-03-25,Chris Hill,Website,5,"Seamless shopping experience on the website. Fast, reliable and beautiful.",Website
+30,2024-03-28,Diana Scott,Product Quality,2,"Product quality is below average. Not worth the price at all.",Product
+31,2024-04-01,Ethan Green,Delivery,3,"Delivery was on time but the box was slightly damaged.",Delivery
+32,2024-04-04,Fiona Adams,Customer Support,5,"Amazing customer service! Went above and beyond to help me. Thank you!",Support
+33,2024-04-07,George Baker,Mobile App,1,"Complete disaster. The app deleted all my data. Absolutely terrible.",App
+34,2024-04-10,Hannah Nelson,Website,4,"Easy to use and visually appealing. Good product descriptions.",Website
+35,2024-04-13,Ivan Carter,Product Quality,5,"Top notch quality! Very durable and well made. Exceeded my expectations.",Product
+36,2024-04-16,Julia Mitchell,Delivery,4,"Fast and reliable delivery. Package arrived in perfect condition.",Delivery
+37,2024-04-19,Kevin Perez,Customer Support,3,"Support was okay. Got a solution but it took several follow ups.",Support
+38,2024-04-22,Laura Roberts,Mobile App,5,"Best app in its category. Clean UI and super responsive. Love it!",App
+39,2024-04-25,Mike Turner,Website,2,"Too many ads and popups on the site. Very annoying experience.",Website
+40,2024-04-28,Nancy Phillips,Product Quality,4,"Solid product. Good value for money. Would buy again.",Product
