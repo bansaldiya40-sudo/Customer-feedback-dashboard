@@ -270,11 +270,11 @@ with tab1:
         color=avg_by_cat.values,
         color_continuous_scale=["#f87171", "#f59e0b", "#34d399"],
         text=[f"{v:.1f}" for v in avg_by_cat.values],
-    )
-    fig_hbar.update_traces(textposition="outside", marker_line_width=0)
-    fig_hbar.update_layout(**PLOTLY_LAYOUT, coloraxis_showscale=False,
-                           xaxis=dict(range=[0, 5.5], gridcolor="#2d3550"),
-                           yaxis=dict(gridcolor="#2d3550"))
+   )
+    fig_hbar.update_layout(**{k: v for k, v in PLOTLY_LAYOUT.items() if k not in ("xaxis", "yaxis")},
+                           coloraxis_showscale=False,
+                           xaxis=dict(range=[0, 5.5], gridcolor="#2d3550", color="#ccd6f6"),
+                           yaxis=dict(gridcolor="#2d3550", color="#ccd6f6"))
     st.plotly_chart(fig_hbar, use_container_width=True)
 
 # ════════════════════════════════════════════════════════════════════════════
